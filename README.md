@@ -55,6 +55,12 @@ The SQL script creates the `uber_analytics` database and defines a trip table st
 The Power BI project file (`uber_dashboard.pbix`) contains the dashboard developed for visual analysis of the Uber trip data.
 
 Power BI can be used to present key metrics, charts, and patterns in a format that is easier to understand and explore.
+<img width="1328" height="543" alt="PAGE-1" src="https://github.com/user-attachments/assets/dd7e9339-2204-46c0-a3bc-91829cfd5599" />
+<img width="1324" height="486" alt="PAGE-2" src="https://github.com/user-attachments/assets/2ee39fdf-b487-408b-acb4-7d11c191b39b" />
+<img width="1321" height="489" alt="PAGE-3" src="https://github.com/user-attachments/assets/2169d5a4-c5ef-4af4-aa94-6e38bb576b62" />
+
+
+
 
 ## Key Areas of Analysis
 
